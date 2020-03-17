@@ -56,7 +56,7 @@ Model_blend : 모델들을 Blending 한 내용을 포함
 
 # 결과<a name="결과"></a>
 최고 성적으로 LB AUC 0.952007 , PB AUC 0.928689 을 기록
-
+6,381개 팀 중 295등으로 은메달 수상
   
 # 라이센스 및 저자<a name="license"></a>
 
