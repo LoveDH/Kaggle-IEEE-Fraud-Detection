@@ -59,4 +59,11 @@ Model_blend : 모델들을 Blending 한 내용을 포함
 
   
 # 라이센스 및 저자<a name="license"></a>
+
+#### SEUNGWON KIM (김승원)
+- https://github.com/possiblemanjr
+
+#### DONGHYEOK KIM (김동혁)
+- https://github.com/LoveDH
+
 Data Source는 [Kaggle](https://www.kaggle.com/c/home-credit-default-risk/data) 에 포함
