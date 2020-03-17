@@ -43,6 +43,8 @@ EDA Notebook : EDA의 전 과정에 대한 내용을 포함
 
 Features Notebook : 모든 Feature Engeering 내용 포함
 
+Data_Minification Notebook : 데이터 크기를 줄여 허용 Memory를 초과하지 않도록함
+
 Model_baseline : Baseline Model에 대해 작업한 모든 내용을 포함
 
 Model_lgb Notebook : lightgbm 알고리즘에 대한 설명과 lightgbm을 적용한 모델들에 대한 작업 내용 포함
