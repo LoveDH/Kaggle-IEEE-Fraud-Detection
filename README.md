@@ -16,3 +16,18 @@
 
 - 데이터 : 전자상거래 결제 솔루션 기업인 Vesta Corporation에서 제공
 - 데이터는 고객의 정보부터 거래를 실행한 디바이스까지 다양한 Feature로 구성
+
+Categorical Features - Transaction
+* ProductCD
+* card1 - card6
+* addr1, addr2
+* P_emaildomain
+* R_emaildomain
+* M1 - M9
+
+The TransactionDT feature is a timedelta from a given reference datetime (not an actual timestamp).
+
+Categorical Features - Identity
+* DeviceType
+* DeviceInfo
+* id_12 - id_38
