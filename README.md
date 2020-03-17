@@ -4,7 +4,7 @@
 1. [개발환경](#개발환경)
 2. [내용](#내용)
 3. [파일설명](#파일설명)
-4. [결과] (#결과)
+4. [결과](#결과)
 5. [라이센스 및 저자](#license)
 
 # 개발환경<a name="개발환경"></a>
@@ -59,4 +59,4 @@ Model_blend : 모델들을 Blending 한 내용을 포함
 
   
 # 라이센스 및 저자<a name="license"></a>
-Data Source는 [Kaggle](https://www.kaggle.com/c/home-credit-default-risk/data) 에 포
+Data Source는 [Kaggle](https://www.kaggle.com/c/home-credit-default-risk/data) 에 포함
