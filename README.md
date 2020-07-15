@@ -70,4 +70,4 @@ Model_blend : 모델들을 Blending 한 내용을 포함
 #### DONGHYEOK KIM (김동혁)
 - https://github.com/LoveDH
 
-Data Source는 [Kaggle](https://www.kaggle.com/c/home-credit-default-risk/data) 에 포함
+Data Source는 [Kaggle](https://www.kaggle.com/c/ieee-fraud-detection) 에 포함
